@@ -28,4 +28,4 @@ An automated Bash script (`jenkins.sh`) to install and configure **Jenkins (WAR)
 ### 1. Download the Script
 
 ```bash
-curl -O [https://raw.githubusercontent.com/swapnilshetgar/jenkins-latest-version-installation/main/jenkins.sh](https://raw.githubusercontent.com/swapnilshetgar/jenkins-latest-version-installation/main/jenkins.sh)
+curl -O [https://raw.githubusercontent.com/swapnilshetgar/jenkins-latest-version-installation/main/jenkins.sh]
